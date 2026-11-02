@@ -94,5 +94,6 @@ public class Lekce01 {
         System.out.println(formatter2.format(""));
         System.out.println(formatter3.format("Tom"));
         System.out.println(formatter3.format(""));
+
     }
 }
